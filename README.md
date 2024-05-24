@@ -1,0 +1,1 @@
+This is an AI model which predicts the type of cancer the patient has efficiently ( The cancer.csv file contains the dataset used to train the AI model and the values are taken from a research on breast cancer cells )
